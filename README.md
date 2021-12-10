@@ -4,7 +4,7 @@
 
 ## About Me
 
-* Pre-final year undergradute with a flair of Tech, Design, PR and sponsorships :notebook_with_decorative_cover:
+* Pre-final year undergraduate with a flair of Tech, Design, PR and sponsorships :notebook_with_decorative_cover:
 * Aspiring to be a data analyst and scientist :chart_with_upwards_trend:
 * Woman in Tech who loves Open Source :woman_technologist:
 * Blogging my Tech world on Medium and Twitter :memo:
