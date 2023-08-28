@@ -2,13 +2,11 @@
 
 <p align="center"><img width=80% src="https://github.com/Vidushi-Gupta/Vidushi-Gupta/blob/main/readme.gif"></p>
 
-## About Me
+## I Turn Numbers Into Narratives That Captivate And Solve Problems
 
-* Pre-final year undergraduate with a flair of Tech, Design, PR and sponsorships :notebook_with_decorative_cover:
-* Aspiring to be a data analyst and scientist :chart_with_upwards_trend:
-* Woman in Tech who loves Open Source :woman_technologist:
-* Blogging my Tech world on Medium and Twitter :memo:
-* Coffee + 3D rendering :coffee: :art:
+I am a data enthusiast and a woman in tech, currently pursuing my Masters in Business Analytics. Passionate about helping businesses make data-driven decisions, I uncover valuable insights for strategic growth. I actively engage in tech meetups, conferences, and open source projects, fostering community and driving innovation. I've had past experience working in FinTech, FMCG and software product sectors. As a mentor, I am dedicated to guiding aspiring individuals.
+
+Let's explore the power of data together and make a positive impact in the world of technology and business.
 
 ## Skills and Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
