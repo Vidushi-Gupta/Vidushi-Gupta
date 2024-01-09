@@ -1,4 +1,4 @@
-<h1 align="center">Hi:wave: I am</h1>
+<h1 align="center">Hi 👋 I am</h1>
 
 <p align="center"><img width=80% src="https://github.com/Vidushi-Gupta/Vidushi-Gupta/blob/main/readme.gif"></p>
 
